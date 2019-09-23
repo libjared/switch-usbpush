@@ -8,4 +8,6 @@
 #include <limits.h>
 #include <switch.h>
 
+void fun(void *);
+
 #endif /* USBMAIN_H */
